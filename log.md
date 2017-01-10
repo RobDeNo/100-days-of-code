@@ -1,4 +1,23 @@
 # 100 Days Of Code - Log
+### Day XX: January 10, 2016
+***Todays Progress***:
+- Redefined the Anchor tags  on my portfolio page. 
+- spent 4 hours on the a freecodecamp.com, still have not figured it out
+***Thoughts***:
+
+*Link to work*:
+https://github.com/RobDeNo/Java-Script-Practice
+### Day 002: January 9, 2016
+***Todays Progress***:
+-
+- Completed 16 Classes freecodecamp.com
+- Make practice problems in my Java-Script_Notes File.
+- installed node.js and configured it to run my JavaScript
+***Thoughts***:
+ - Arrays were pretty easy to understand, and right from the beginning i looked up the definition of an array and exactly what it was/how it was used. it made codding the different modifications alot easier. I full understood what i was doing. 
+ - I am glad i can now execute my java code to better understand how the code executes. It definitly helps to write code and get immiditate results to correct bad habits with the way I write.
+ *Link to work*:
+https://github.com/RobDeNo/Java-Script-Practice
 ### Day 001: January 8, 2016
 ***Todays Progress***:
 - Reinstalled Windows and am now off of ubuntu. (Took literally an entire day...crap interwebs)
